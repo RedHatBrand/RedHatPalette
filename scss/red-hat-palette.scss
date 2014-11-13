@@ -1,0 +1,50 @@
+$color-rh-red:          #cc0000;
+$color-rh-red2:         #A30000;
+$color-rh-red3:         #820000;
+
+$color-rh-black:        #111111;
+$color-rh-white:        #ffffff;
+
+$color-rh-grey:         #D1D4D3;
+
+$color-rh-navy:         #005172;
+$color-rh-dark-navy:    #004153; 
+
+$color-rh-slate:        #5E6A71;
+$color-rh-dark-slate:   #37424A;
+
+$color-rh-orange:       #EC7A08;
+$color-rh-light-orange: #FFB612;
+
+$color-rh-blue:         #0088CE;
+$color-rh-light-blue:   #4E9FDD;
+
+$color-rh-accent-blue:  #CAE3E9;
+
+$color-rh-green:        #3F9C35;
+$color-rh-light-green:  #92D400;
+
+$color-rh-teal:         #007A87;
+
+$color-rh-purple:       #3B0083;
+
+$rh-palette:            'rh-red'          $color-rh-red,
+                        'rh-red2'         $color-rh-red2,
+                        'rh-red3'         $color-rh-red3,
+                        'rh-black'        $color-rh-black,
+                        'rh-white'        $color-rh-white,
+                        'rh-grey'         $color-rh-grey,
+                        'rh-navy'         $color-rh-navy,
+                        'rh-dark-navy'    $color-rh-dark-navy,
+                        'rh-slate'        $color-rh-slate,   
+                        'rh-dark-slate'   $color-rh-dark-slate,
+                        'rh-orange'       $color-rh-orange,  
+                        'rh-light-orange' $color-rh-light-orange,
+                        'rh-blue'         $color-rh-blue,
+                        'rh-light-blue'   $color-rh-light-blue,
+                        'rh-accent-blue'  $color-rh-accent-blue,
+                        'rh-green'        $color-rh-green,
+                        'rh-light-green'  $color-rh-light-green,
+                        'rh-teal'         $color-rh-teal,
+                        'rh-purple'       $color-rh-purple;
+

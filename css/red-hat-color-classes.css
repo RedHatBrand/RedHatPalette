@@ -1,0 +1,208 @@
+.rh-red-foreground {
+  color: #cc0000; }
+  .rh-red-foreground:link:visited {
+    color: #cc0000; }
+
+.rh-red-background {
+  background-color: #cc0000; }
+
+.rh-red-border {
+  border-color: #cc0000; }
+
+.rh-red2-foreground {
+  color: #A30000; }
+  .rh-red2-foreground:link:visited {
+    color: #A30000; }
+
+.rh-red2-background {
+  background-color: #A30000; }
+
+.rh-red2-border {
+  border-color: #A30000; }
+
+.rh-red3-foreground {
+  color: #820000; }
+  .rh-red3-foreground:link:visited {
+    color: #820000; }
+
+.rh-red3-background {
+  background-color: #820000; }
+
+.rh-red3-border {
+  border-color: #820000; }
+
+.rh-black-foreground {
+  color: #111111; }
+  .rh-black-foreground:link:visited {
+    color: #111111; }
+
+.rh-black-background {
+  background-color: #111111; }
+
+.rh-black-border {
+  border-color: #111111; }
+
+.rh-white-foreground {
+  color: #ffffff; }
+  .rh-white-foreground:link:visited {
+    color: #ffffff; }
+
+.rh-white-background {
+  background-color: #ffffff; }
+
+.rh-white-border {
+  border-color: #ffffff; }
+
+.rh-grey-foreground {
+  color: #D1D4D3; }
+  .rh-grey-foreground:link:visited {
+    color: #D1D4D3; }
+
+.rh-grey-background {
+  background-color: #D1D4D3; }
+
+.rh-grey-border {
+  border-color: #D1D4D3; }
+
+.rh-navy-foreground {
+  color: #005172; }
+  .rh-navy-foreground:link:visited {
+    color: #005172; }
+
+.rh-navy-background {
+  background-color: #005172; }
+
+.rh-navy-border {
+  border-color: #005172; }
+
+.rh-dark-navy-foreground {
+  color: #004153; }
+  .rh-dark-navy-foreground:link:visited {
+    color: #004153; }
+
+.rh-dark-navy-background {
+  background-color: #004153; }
+
+.rh-dark-navy-border {
+  border-color: #004153; }
+
+.rh-slate-foreground {
+  color: #5E6A71; }
+  .rh-slate-foreground:link:visited {
+    color: #5E6A71; }
+
+.rh-slate-background {
+  background-color: #5E6A71; }
+
+.rh-slate-border {
+  border-color: #5E6A71; }
+
+.rh-dark-slate-foreground {
+  color: #37424A; }
+  .rh-dark-slate-foreground:link:visited {
+    color: #37424A; }
+
+.rh-dark-slate-background {
+  background-color: #37424A; }
+
+.rh-dark-slate-border {
+  border-color: #37424A; }
+
+.rh-orange-foreground {
+  color: #EC7A08; }
+  .rh-orange-foreground:link:visited {
+    color: #EC7A08; }
+
+.rh-orange-background {
+  background-color: #EC7A08; }
+
+.rh-orange-border {
+  border-color: #EC7A08; }
+
+.rh-light-orange-foreground {
+  color: #FFB612; }
+  .rh-light-orange-foreground:link:visited {
+    color: #FFB612; }
+
+.rh-light-orange-background {
+  background-color: #FFB612; }
+
+.rh-light-orange-border {
+  border-color: #FFB612; }
+
+.rh-blue-foreground {
+  color: #0088CE; }
+  .rh-blue-foreground:link:visited {
+    color: #0088CE; }
+
+.rh-blue-background {
+  background-color: #0088CE; }
+
+.rh-blue-border {
+  border-color: #0088CE; }
+
+.rh-light-blue-foreground {
+  color: #4E9FDD; }
+  .rh-light-blue-foreground:link:visited {
+    color: #4E9FDD; }
+
+.rh-light-blue-background {
+  background-color: #4E9FDD; }
+
+.rh-light-blue-border {
+  border-color: #4E9FDD; }
+
+.rh-accent-blue-foreground {
+  color: #CAE3E9; }
+  .rh-accent-blue-foreground:link:visited {
+    color: #CAE3E9; }
+
+.rh-accent-blue-background {
+  background-color: #CAE3E9; }
+
+.rh-accent-blue-border {
+  border-color: #CAE3E9; }
+
+.rh-green-foreground {
+  color: #3F9C35; }
+  .rh-green-foreground:link:visited {
+    color: #3F9C35; }
+
+.rh-green-background {
+  background-color: #3F9C35; }
+
+.rh-green-border {
+  border-color: #3F9C35; }
+
+.rh-light-green-foreground {
+  color: #92D400; }
+  .rh-light-green-foreground:link:visited {
+    color: #92D400; }
+
+.rh-light-green-background {
+  background-color: #92D400; }
+
+.rh-light-green-border {
+  border-color: #92D400; }
+
+.rh-teal-foreground {
+  color: #007A87; }
+  .rh-teal-foreground:link:visited {
+    color: #007A87; }
+
+.rh-teal-background {
+  background-color: #007A87; }
+
+.rh-teal-border {
+  border-color: #007A87; }
+
+.rh-purple-foreground {
+  color: #3B0083; }
+  .rh-purple-foreground:link:visited {
+    color: #3B0083; }
+
+.rh-purple-background {
+  background-color: #3B0083; }
+
+.rh-purple-border {
+  border-color: #3B0083; }

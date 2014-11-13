@@ -1,0 +1,26 @@
+{
+  "name": "RedHatPalette",
+  "version": "1.0.0",
+  "description": "Red Hat Brand Color Palette",
+  "main": "palette.scss",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedHatBrand/RedHatPalette.git"
+  },
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/RedHatBrand/RedHatPalette/issues"
+  },
+  "homepage": "https://github.com/RedHatBrand/RedHatPalette",
+  "devDependencies": {
+    "connect": "^3.3.3",
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.4.0",
+    "gulp-sass": "^1.1.0",
+    "serve-static": "^1.7.1"
+  }
+}
