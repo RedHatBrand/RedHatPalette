@@ -10,7 +10,10 @@
     "type": "git",
     "url": "https://github.com/RedHatBrand/RedHatPalette.git"
   },
-  "author": "",
+  "author": { 
+    "name" : "Brad Parker", 
+    "email" : "bparker@redhat.com"
+  },
   "license": "GPL",
   "bugs": {
     "url": "https://github.com/RedHatBrand/RedHatPalette/issues"
