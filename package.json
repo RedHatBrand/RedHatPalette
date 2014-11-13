@@ -1,6 +1,6 @@
 {
-  "name": "RedHatPalette",
-  "version": "1.0.1",
+  "name": "red-hat-brand-palette",
+  "version": "1.0.2",
   "description": "Red Hat Brand Color Palette",
   "main": "palette.scss",
   "scripts": {
